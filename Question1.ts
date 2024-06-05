@@ -10,5 +10,5 @@ const getClockAngle = (hr_min: string): number => {
     return angle;
 }
 
-console.log(getClockAngle("09:00"));
-console.log(getClockAngle("17:30"));
+// console.log(getClockAngle("09:00"));
+// console.log(getClockAngle("17:30"));
