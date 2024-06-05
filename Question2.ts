@@ -15,5 +15,5 @@ const getQuestionPart = (phrases: string[]): string[] => {
     return questionParts;
 };
 
-console.log(getQuestionPart(["BATHROOM", "BATH SALTS", "BLOODBATH"]));
-console.log(getQuestionPart(["BEFRIEND", "GIRLFRIEND", "FRIENDSHIP"]));
+// console.log(getQuestionPart(["BATHROOM", "BATH SALTS", "BLOODBATH"]));
+// console.log(getQuestionPart(["BEFRIEND", "GIRLFRIEND", "FRIENDSHIP"]));
